@@ -1,0 +1,23 @@
+.css-Trending-container {
+  height: 100px;
+  margin: 10px;
+  margin-left: 30px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.css-ul-trending-container {
+  padding: 0;
+}
+
+.css-list-trending-container {
+  display: flex;
+  list-style-type: none;
+  margin: 10px;
+}
+
+.css-trending-Link-property {
+  text-decoration: none;
+  display: flex;
+}

@@ -1,0 +1,48 @@
+.css-background-dark-color-181818 {
+  background-color: #181818;
+}
+
+.css-background-dark-color-0f0f0f {
+  background-color: #0f0f0f;
+}
+
+.css-background-light-color-f9f9f9 {
+  background-color: #f9f9f9;
+}
+
+.css-textColor-dark-color-f9f9f9 {
+  color: #f9f9f9;
+}
+
+.css-textColor-light-color-0f0f0f {
+  color: #0f0f0f;
+}
+
+.css-login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Roboto;
+}
+
+.css-login-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  width: 300px;
+  height: 320px;
+  box-shadow: 10px 10px #011a07;
+}
+
+.css-input-password-itself {
+  width: 250px;
+  height: 30px;
+}
+
+.css-websitelogo {
+  width: 100px;
+}

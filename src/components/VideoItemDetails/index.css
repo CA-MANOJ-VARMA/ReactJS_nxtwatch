@@ -1,0 +1,17 @@
+.css-videoItemDetails-container {
+  display: flex;
+}
+
+.css-videoItemDetails {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.css-like-dislike-button-active {
+  color: #2563eb;
+}
+
+.css-like-dislike-button-inactive {
+  color: #64748b;
+}

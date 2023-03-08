@@ -1,0 +1,32 @@
+.css-sidebar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 15vw;
+  margin-top: 80px;
+  padding-bottom: 40px;
+  position: fixed;
+}
+
+.css-ul-list-home {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.css-ul-list-home-logos {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+
+.css-logo-style {
+  width: 30px;
+  margin-right: 2px;
+}
+
+.css-Link-Style {
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
